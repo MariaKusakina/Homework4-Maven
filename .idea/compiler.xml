@@ -6,7 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="homework4_javaCore" />
+        <module name="api" />
+        <module name="service" />
+        <module name="db" />
       </profile>
     </annotationProcessing>
   </component>
